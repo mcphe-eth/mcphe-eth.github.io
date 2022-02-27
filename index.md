@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Welcome to the Mind of Mcphe_eth!!
 
-![Image of fast.ai logo](images/logo.png)
+## A growing process as I learn more about myself and my passion for photography!
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+### For more info. on my photography and a more active engaging conversion... message me on twitter @mcphe_eth !!!
